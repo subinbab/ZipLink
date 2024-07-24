@@ -1,0 +1,58 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+form {
+    display: flex;
+    width: 850px;
+}
+button {
+    position: absolute;
+    margin-left: 46%;
+}
+input {
+    width: 763px !important;
+}
+/* HTML: <div class="loader"></div> */
+.loader {
+    width: 0;
+    height: 22px;
+    border-radius: 20px;
+    color: #514b82;
+    border: 2px solid;
+    position: relative;
+    overflow: hidden;
+    display:none;
+}
+
+    .loader::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: currentColor;
+        animation: none;
+    }
+
+@keyframes progress {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+.generatedUrl{
+    display:none;
+}
+
+

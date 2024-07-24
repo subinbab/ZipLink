@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+@model Models.Client.URLClient
+<main class="container-fluid d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="row">
+        <div class="">
+            <form action="/home/addURL" class="border p-4 rounded bg-light shadow shortenUrlForm">
+                <div class="form-group">
+                    @*                    <label for="url">URL</label>*@
+                    <input type="text" class="form-control" id="url" name="url" placeholder="Enter URL">
+                </div>
+                <button type="submit" class="btn btn-primary">ZipLink</button>
+            </form>
+            <div class="mt-3">
+ 
+                    <p class="generatedUrl"></p>
+                    <div class="loader" id="loader"></div>
+            </div>
+        </div>
+    </div>
+</main>
+
