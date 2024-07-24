@@ -23,7 +23,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/ziplink.git
+git clone [https://github.com/yourusername/ziplink.git](https://github.com/subinbab/ZipLink.git)
 Open the solution in Visual Studio.
 
 Restore NuGet packages:
