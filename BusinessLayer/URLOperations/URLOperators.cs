@@ -2,6 +2,7 @@
 using Repository;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
@@ -44,6 +45,7 @@ namespace BusinessLayer.URLOperations
         }
         public URLDTO Add(URLDTO model)
         {
+            model.user = null;
             try
             {
                 var result = _ziplinkDbContext.urlOperator.Add(model);
@@ -60,6 +62,7 @@ namespace BusinessLayer.URLOperations
             try
             {
                 var result = _ziplinkDbContext.urlOperator.Remove(model);
+                _ziplinkDbContext.SaveChanges();
             }
             catch (Exception ex)
             {
@@ -72,6 +75,7 @@ namespace BusinessLayer.URLOperations
             try
             {
                 var result = _ziplinkDbContext.urlOperator.Add(urldto);
+                _ziplinkDbContext.SaveChanges();
             }
             catch (Exception ex)
             {

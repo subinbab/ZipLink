@@ -30,24 +30,24 @@ namespace ConsumeLayer.URLOperators
 
                 // Limits scope of myRes
                 URLDTO urlDto = new URLDTO();
-                try
-                {
+
                     var charlength = Convert.ToInt32(ConfigurationManager.AppSettings["urlLength"].ToString());
                     var generatedUrl = GenerateUrlLink(charlength);
                     uRLClient.generatedUrl = generatedUrl;
-                    uRLClient.shortenurl = ConfigurationManager.AppSettings["baseurl"].ToString() + "/" + generatedUrl;
+                    uRLClient.shortenurl = ConfigurationManager.AppSettings["baseurl"].ToString() + "/Home/index?url=" + generatedUrl;
                     // Mapping URLClient to URLDTO 
                     var dto = _mapper.Map<URLDTO>(uRLClient);
+                    dto.userId = uRLClient.userId;
+                    dto.user = uRLClient.appUser;
+                    dto.createdby = uRLClient.userId;
+                dto.imageUrl = uRLClient.imageUrl;
+                dto.text = uRLClient.text;
                     var result = _urlOperators.Add(dto);
-                    return _mapper.Map<URLClient>(result);
-                }
-                finally
-                {
-                    // Check for a null resource.
-                    if (urlDto != null)
-                        // Call the object's Dispose method.
-                        ((IDisposable)urlDto).Dispose();
-                }
+                    var returnData = _mapper.Map<URLClient>(result);
+                    returnData.shortenurl = uRLClient.shortenurl;
+                    return returnData;
+
+                
 
             }
             catch (Exception ex)
@@ -70,16 +70,38 @@ namespace ConsumeLayer.URLOperators
             }
         }
 
-        public string RedirectUrl(string url)
+        public string RedirectUrl(URLClient url)
         {
             try
             {
-                var result = _urlOperators.GetDataByParms("url", url, "string");
+                var result = _urlOperators.GetDataByParms("url", url.url, "string");
+
                 return result.url.ToString();
             }
             catch (Exception ex) { 
             }
             return "";
+        }
+        public URLClient GetRandomBanner()
+        {
+            var totaleCount = _urlOperators.Get();
+            if (totaleCount == null || totaleCount.Count()==0)
+            {
+                return null;
+            }
+            else
+            {
+                var randomIndex = new Random().Next(totaleCount.Count());
+                var obj = _urlOperators.Get().Select(c => c.id).ToList()[randomIndex];
+                var signleData = _urlOperators.GetById(obj);
+                var result = _mapper.Map<URLClient>(signleData);
+                result.id = signleData.id;
+                result.shortenurl = signleData.shortenUrl;
+                return result;
+            }
+           
+
+            
         }
     }
 }

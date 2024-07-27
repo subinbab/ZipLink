@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Models.User;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -18,5 +19,9 @@ namespace Models.DTO
         public DateTime createdDate { get; set; } = DateTime.Now;
         public string modifieddby { get; set; }
         public DateTime modifiedDate { get; set; } = DateTime.Now;
+        public string userId { get; set; }
+        public ApplicationUser user { get; set; }
+        public string imageUrl { get; set; }
+        public string text { get; set; }
     }
 }

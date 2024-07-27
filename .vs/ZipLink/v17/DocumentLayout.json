@@ -1,134 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\",
+  "WorkspaceRootPath": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\businesslayer\\urltrackingoperations\\urltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\urltrackingoperations\\urltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\consumelayer\\urltracking\\urltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\urltracking\\urltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\consumelayer\\urloperators\\urlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\consumelayer\\urloperators\\urlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\urloperators\\urlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\businesslayer\\urloperations\\urloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\businesslayer\\urloperations\\urloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\urloperations\\urloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\consumelayer\\urloperators\\iurlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\urloperators\\iurlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\scripts\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\models\\client\\urlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\urlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\client\\urltrackingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\urltrackingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\migrations\\202407232002263_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\202407232002263_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\models\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\repository\\migrations\\202407270759329_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\202407270759329_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\businesslayer\\urloperations\\iurloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\urloperations\\iurloperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\ziplink\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\consumelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\migrations\\202407231015165_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\202407231015165_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\repository\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\models\\linkpreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\models\\linkpreviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\repository\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EF45BA-A4C5-41DD-80F5-E1C8515FBC3F}|Repository\\Repository.csproj|solutionrelative:repository\\ziplinkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|c:\\myprojects\\reddiscache\\project1\\ziplink\\businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92EA032-5C06-494A-9D1E-66F18F9A9A2E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\auth\\applicationusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\auth\\applicationusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\client\\urlanalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\urlanalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\client\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\dto\\urldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\dto\\urltracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\dto\\urltracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\models\\fetchmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\models\\fetchmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\client\\thumbnailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\thumbnailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\models\\client\\urlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A79D6A-BE44-45D5-BDE9-CE34BA50DF92}|Models\\Models.csproj|solutionrelative:models\\client\\urlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\consumelayer\\urloperators\\iurlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\urloperators\\iurlconsumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\consumelayer\\urltracking\\iurltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC51204-7FDD-479F-B786-31F7921600A8}|ConsumeLayer\\ConsumeLayer.csproj|solutionrelative:consumelayer\\urltracking\\iurltrackingoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\app_start\\unitymvcactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\unitymvcactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|c:\\myprojects\\reddiscache\\project1\\github\\ziplink\\ziplink\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBADCEE5-DAB2-48EF-8204-A5F579DF7076}|ZipLink\\ZipLink.csproj|solutionrelative:ziplink\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,426 +158,495 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Scripts\\main.js",
-              "RelativeDocumentMoniker": "ZipLink\\Scripts\\main.js",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Scripts\\main.js",
-              "RelativeToolTip": "ZipLink\\Scripts\\main.js",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-24T04:55:28.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Content\\Site.css",
-              "RelativeDocumentMoniker": "ZipLink\\Content\\Site.css",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Content\\Site.css",
-              "RelativeToolTip": "ZipLink\\Content\\Site.css",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAADQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-23T20:15:08.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ZipLink\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ZipLink\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T20:12:05.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "202407232002263_SecondCreate.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\202407232002263_SecondCreate.cs",
-              "RelativeDocumentMoniker": "Repository\\Migrations\\202407232002263_SecondCreate.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\202407232002263_SecondCreate.cs",
-              "RelativeToolTip": "Repository\\Migrations\\202407232002263_SecondCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:02:30.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\App.config",
-              "RelativeDocumentMoniker": "Repository\\App.config",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\App.config",
-              "RelativeToolTip": "Repository\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-23T19:23:14.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Readme.txt",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
-              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
-              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-23T17:04:32.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\packages.config",
-              "RelativeDocumentMoniker": "ZipLink\\packages.config",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\packages.config",
-              "RelativeToolTip": "ZipLink\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-23T17:00:37.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Web.config",
-              "RelativeDocumentMoniker": "ZipLink\\Views\\Web.config",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Web.config",
-              "RelativeToolTip": "ZipLink\\Views\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Web.config",
+              "RelativeDocumentMoniker": "ZipLink\\Web.config",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Web.config",
+              "RelativeToolTip": "ZipLink\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-23T16:54:19.16Z",
+              "WhenOpened": "2024-07-27T08:52:20.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "ZipLink\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "ZipLink\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T12:24:31.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ZipLink\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ZipLink\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T12:13:14.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "ZipLink\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "ZipLink\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T12:13:06.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ZipLink\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ZipLink\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:12:58.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IURLConsumes.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\URLOperators\\IURLConsumes.cs",
-              "RelativeDocumentMoniker": "ConsumeLayer\\URLOperators\\IURLConsumes.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\URLOperators\\IURLConsumes.cs",
-              "RelativeToolTip": "ConsumeLayer\\URLOperators\\IURLConsumes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:12:14.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnityConfig.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\UnityConfig.cs",
-              "RelativeDocumentMoniker": "ZipLink\\App_Start\\UnityConfig.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\UnityConfig.cs",
-              "RelativeToolTip": "ZipLink\\App_Start\\UnityConfig.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:11:04.985Z",
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Scripts\\main.js",
+              "RelativeDocumentMoniker": "ZipLink\\Scripts\\main.js",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Scripts\\main.js",
+              "RelativeToolTip": "ZipLink\\Scripts\\main.js",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-27T08:45:53.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "ZipLink\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "ZipLink\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:06:29.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "ZipLink\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "ZipLink\\App_Start\\FilterConfig.cs",
+              "Title": "202407270759329_1.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\Migrations\\202407270759329_1.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\202407270759329_1.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\Migrations\\202407270759329_1.cs",
+              "RelativeToolTip": "Repository\\Migrations\\202407270759329_1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:06:28.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "ZipLink\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "ZipLink\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:06:26.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Global.asax.cs",
-              "RelativeDocumentMoniker": "ZipLink\\Global.asax.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Global.asax.cs",
-              "RelativeToolTip": "ZipLink\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:05:56.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ZipLink\\Mapper\\MappingProfile.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "ZipLink\\Mapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:00:27.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "URLClient.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\Client\\URLClient.cs",
-              "RelativeDocumentMoniker": "Models\\Client\\URLClient.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\Client\\URLClient.cs",
-              "RelativeToolTip": "Models\\Client\\URLClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:54:04.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IURLOperators.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\URLOperations\\IURLOperators.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\URLOperations\\IURLOperators.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\URLOperations\\IURLOperators.cs",
-              "RelativeToolTip": "BusinessLayer\\URLOperations\\IURLOperators.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:43:31.227Z",
+              "WhenOpened": "2024-07-27T07:59:51.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "URLConsumes.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\URLOperators\\URLConsumes.cs",
-              "RelativeDocumentMoniker": "ConsumeLayer\\URLOperators\\URLConsumes.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\URLOperators\\URLConsumes.cs",
-              "RelativeToolTip": "ConsumeLayer\\URLOperators\\URLConsumes.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAjwEkAAAAIAAAA",
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Repository\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:46:38.791Z",
+              "WhenOpened": "2024-07-27T07:58:42.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "ConsumeLayer\\Class1.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ConsumeLayer\\Class1.cs",
-              "RelativeToolTip": "ConsumeLayer\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:45:39.044Z",
+              "DocumentIndex": 20,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ZipLink\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ZipLink\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:08:51.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "URLOperators.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\URLOperations\\URLOperators.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\URLOperations\\URLOperators.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\URLOperations\\URLOperators.cs",
-              "RelativeToolTip": "BusinessLayer\\URLOperations\\URLOperators.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAywC0AAAAIAAAA",
+              "Title": "LinkPreviewService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Models\\LinkPreviewService.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Models\\LinkPreviewService.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Models\\LinkPreviewService.cs",
+              "RelativeToolTip": "ZipLink\\Models\\LinkPreviewService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:17:36.181Z",
+              "WhenOpened": "2024-07-27T06:51:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FetchMetaData.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Models\\FetchMetaData.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Models\\FetchMetaData.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Models\\FetchMetaData.cs",
+              "RelativeToolTip": "ZipLink\\Models\\FetchMetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:31:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThumbnailModel.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\ThumbnailModel.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\ThumbnailModel.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\ThumbnailModel.cs",
+              "RelativeToolTip": "Models\\Client\\ThumbnailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:31:10.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "202407231015165_InitialCreate.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\202407231015165_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Repository\\Migrations\\202407231015165_InitialCreate.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\202407231015165_InitialCreate.cs",
-              "RelativeToolTip": "Repository\\Migrations\\202407231015165_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Title": "IURLConsumes.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLOperators\\IURLConsumes.cs",
+              "RelativeDocumentMoniker": "ConsumeLayer\\URLOperators\\IURLConsumes.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLOperators\\IURLConsumes.cs",
+              "RelativeToolTip": "ConsumeLayer\\URLOperators\\IURLConsumes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:15:28.75Z",
+              "WhenOpened": "2024-07-26T23:37:45.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Repository\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Repository\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:14:45.411Z",
+              "DocumentIndex": 9,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Content\\Site.css",
+              "RelativeDocumentMoniker": "ZipLink\\Content\\Site.css",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Content\\Site.css",
+              "RelativeToolTip": "ZipLink\\Content\\Site.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-26T23:27:02.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ZiplinkDBContext.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\ZiplinkDBContext.cs",
-              "RelativeDocumentMoniker": "Repository\\ZiplinkDBContext.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\ZiplinkDBContext.cs",
-              "RelativeToolTip": "Repository\\ZiplinkDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:08:40.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Web.config",
-              "RelativeDocumentMoniker": "ZipLink\\Web.config",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\ZipLink\\Web.config",
-              "RelativeToolTip": "ZipLink\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-23T09:06:27.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "URLDTO.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\DTO\\URLDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\URLDTO.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\DTO\\URLDTO.cs",
-              "RelativeToolTip": "Models\\DTO\\URLDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:01:29.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Models\\Class1.cs",
-              "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:56:16.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Class1.cs",
-              "RelativeDocumentMoniker": "Repository\\Class1.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\Repository\\Class1.cs",
-              "RelativeToolTip": "Repository\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:51:24.289Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZipLink\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ZipLink\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T23:26:04.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Class1.cs",
-              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\ZipLink\\BusinessLayer\\Class1.cs",
-              "RelativeToolTip": "BusinessLayer\\Class1.cs",
+              "Title": "UnityMvcActivator.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\UnityMvcActivator.cs",
+              "RelativeDocumentMoniker": "ZipLink\\App_Start\\UnityMvcActivator.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\UnityMvcActivator.cs",
+              "RelativeToolTip": "ZipLink\\App_Start\\UnityMvcActivator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:26:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "URLOperators.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\BusinessLayer\\URLOperations\\URLOperators.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\URLOperations\\URLOperators.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\BusinessLayer\\URLOperations\\URLOperators.cs",
+              "RelativeToolTip": "BusinessLayer\\URLOperations\\URLOperators.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:31:59.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZipLink\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "ZipLink\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T21:49:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "URLTrackingOperators.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\BusinessLayer\\URLTrackingOperations\\URLTrackingOperators.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\URLTrackingOperations\\URLTrackingOperators.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\BusinessLayer\\URLTrackingOperations\\URLTrackingOperators.cs",
+              "RelativeToolTip": "BusinessLayer\\URLTrackingOperations\\URLTrackingOperators.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwDgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:04:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UrlAnalytics.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\UrlAnalytics.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\UrlAnalytics.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\UrlAnalytics.cs",
+              "RelativeToolTip": "Models\\Client\\UrlAnalytics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:40:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\Dashboard.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\Dashboard.cs",
+              "RelativeToolTip": "Models\\Client\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:39:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "ZipLink\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:36:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "URLConsumes.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLOperators\\URLConsumes.cs",
+              "RelativeDocumentMoniker": "ConsumeLayer\\URLOperators\\URLConsumes.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLOperators\\URLConsumes.cs",
+              "RelativeToolTip": "ConsumeLayer\\URLOperators\\URLConsumes.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:09:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IURLTrackingOperators.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLTracking\\IURLTrackingOperators.cs",
+              "RelativeDocumentMoniker": "ConsumeLayer\\URLTracking\\IURLTrackingOperators.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLTracking\\IURLTrackingOperators.cs",
+              "RelativeToolTip": "ConsumeLayer\\URLTracking\\IURLTrackingOperators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:10:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "URLTrackingOperators.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLTracking\\URLTrackingOperators.cs",
+              "RelativeDocumentMoniker": "ConsumeLayer\\URLTracking\\URLTrackingOperators.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ConsumeLayer\\URLTracking\\URLTrackingOperators.cs",
+              "RelativeToolTip": "ConsumeLayer\\URLTracking\\URLTrackingOperators.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwGcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:02:46.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "URLTracking.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\DTO\\URLTracking.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\URLTracking.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\DTO\\URLTracking.cs",
+              "RelativeToolTip": "Models\\DTO\\URLTracking.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:02:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "URLDTO.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\DTO\\URLDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\URLDTO.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\DTO\\URLDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\URLDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:02:24.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "URLTrackingClient.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\URLTrackingClient.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\URLTrackingClient.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\URLTrackingClient.cs",
+              "RelativeToolTip": "Models\\Client\\URLTrackingClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:02:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "URLClient.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\URLClient.cs",
+              "RelativeDocumentMoniker": "Models\\Client\\URLClient.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\Client\\URLClient.cs",
+              "RelativeToolTip": "Models\\Client\\URLClient.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:01:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ZipLink\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:59:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ZipLink\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:52:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\User\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\User\\ApplicationUser.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Models\\User\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\User\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:50:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUserManager.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Auth\\ApplicationUserManager.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Auth\\ApplicationUserManager.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Auth\\ApplicationUserManager.cs",
+              "RelativeToolTip": "ZipLink\\Auth\\ApplicationUserManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:48:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "ZipLink\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:46:05.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Global.asax.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Global.asax.cs",
+              "RelativeToolTip": "ZipLink\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:35:08.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ZipLink\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ZipLink\\App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T08:51:02.654Z",
+              "WhenOpened": "2024-07-26T19:33:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ZipLink\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ZipLink\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ZipLink\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ZipLink\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "ZipLink\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "ZipLink\\App_Start\\UnityConfig.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Startup.cs",
+              "RelativeDocumentMoniker": "ZipLink\\Startup.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\ZipLink\\Startup.cs",
+              "RelativeToolTip": "ZipLink\\Startup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ZiplinkDBContext.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\ZiplinkDBContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ZiplinkDBContext.cs",
+              "ToolTip": "C:\\MyProjects\\ReddisCache\\Project1\\Github\\ZipLink\\Repository\\ZiplinkDBContext.cs",
+              "RelativeToolTip": "Repository\\ZiplinkDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:08.738Z",
               "EditorCaption": ""
             }
           ]

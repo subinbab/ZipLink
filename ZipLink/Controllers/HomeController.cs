@@ -1,51 +1,144 @@
-﻿using ConsumeLayer.URLOperators;
+﻿using BusinessLayer.URLTrackingOperations;
+using ConsumeLayer.URLOperators;
 using log4net;
+using Microsoft.AspNet.Identity;
 using Models.Client;
+using Models.User;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
+using ZipLink.Auth;
+using ZipLink.Models;
 
 namespace ZipLink.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly IURLConsumes _consumes;
+        private readonly ConsumeLayer.URLTracking.IURLTrackingOperators _iURLTrackingOperators;
+        private ApplicationSignInManager _signInManager;
+        private ApplicationUserManager _userManager;
         ILog log = log4net.LogManager.GetLogger(typeof(HomeController));
-        public HomeController(IURLConsumes uRLConsumes)
+        public HomeController(IURLConsumes uRLConsumes, ConsumeLayer.URLTracking.IURLTrackingOperators iURLTrackingOperators, ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
             _consumes = uRLConsumes;
+            _iURLTrackingOperators = iURLTrackingOperators;
+            _signInManager = signInManager;
+            _userManager = userManager;
         }
-        public ActionResult Index(string url)
+        public ActionResult Index(string url,string returnUrl)
         {
-            if (!string.IsNullOrEmpty(url))
+            if (returnUrl==null)
             {
-                var redirectUrl = _consumes.RedirectUrl(url);
-                return Redirect(redirectUrl);
+                if (!string.IsNullOrEmpty(url))
+                {
+                    var userId = User.Identity.GetUserId();
+                    var user = _userManager.FindUserById(userId);
+                    // Fetch client's IP address
+                    URLClient data = new URLClient();
+                    data.userId = userId;
+                    data.appUser = user;
+                    string ipAddress = Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
+                    if (string.IsNullOrEmpty(ipAddress))
+                    {
+                        ipAddress = Request.ServerVariables["REMOTE_ADDR"];
+                    }
+                    data.clientIp = ipAddress;
+                    data.url = url;
+                    var redirectUrl = _consumes.RedirectUrl(data);
+                    URLTrackingClient uRLTrackingClient = new URLTrackingClient();
+                    uRLTrackingClient.userId = userId;
+                    uRLTrackingClient.appUser = user;
+                    uRLTrackingClient.ipAddress = ipAddress;
+                    uRLTrackingClient.browserAgent = "Chrome";
+                    uRLTrackingClient.shortenUrl = url;
+                    uRLTrackingClient.createdBy = userId;
+                    _iURLTrackingOperators.UpdateUrlTracker(uRLTrackingClient);
+                    return Redirect(redirectUrl);
+                }
+                else
+                {
+                    return View();
+                }
             }
             else
             {
-                return View();
+                return Redirect(returnUrl);
+            }
+            
+            
+        }
+        [HttpPost]
+        public async Task<JsonResult> addURL(URLClient urlClient)
+        {
+            var data = new URLClient();
+            if (ModelState.IsValid)
+            {
+                var userId = User.Identity.GetUserId();
+                var user = _userManager.FindUserById(userId);
+                ViewData["url"] = urlClient.url;
+                data.userId = userId;
+                data.appUser = user;
+                data.url = urlClient.url;
+                // Fetch client's IP address
+                string ipAddress = Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
+                if (string.IsNullOrEmpty(ipAddress))
+                {
+                    ipAddress = Request.ServerVariables["REMOTE_ADDR"];
+                }
+                data.clientIp = ipAddress;
+                var previewDataObj = new LinkPreviewService();
+                var previewData = previewDataObj.GetLinkPreviewAsync((urlClient.url)).Result;
+                data.imageUrl = previewData.Image;
+                data.text = previewData.Description;
+                var result = _consumes.UrlUpload(data);
+
+                log.Debug($"User Request from {ipAddress} ip address to shorten url {urlClient.url}");
+                return new JsonResult() { Data = result, ContentType = "json" };
+            }
+            else
+            {
+                data.shortenurl = "Invalid link";
+                return new JsonResult() { Data =data , ContentType = "json" };
             }
             
         }
-        public JsonResult addURL(string url)
+        [HttpPost]
+        public JsonResult UpdateCTAImpressionCount(string id)
         {
-            ViewData["url"] = url;
-            var data = new URLClient();
-            data.url = url;
-            // Fetch client's IP address
-            string ipAddress = Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
-            if (string.IsNullOrEmpty(ipAddress))
+            if (!string.IsNullOrEmpty(id))
             {
-                ipAddress = Request.ServerVariables["REMOTE_ADDR"];
+                _iURLTrackingOperators.UpdateCTAImpression(id);
             }
-            data.clientIp = ipAddress;
-            var result = _consumes.UrlUpload(data);
-
-            log.Debug($"User Request from {ipAddress} ip address to shorten url {url}");
-            return new JsonResult() { Data=data ,ContentType = "json"};
+            
+            return Json(new { Data = "Impression counted" }, JsonRequestBehavior.AllowGet);
+        }
+        [AllowAnonymous]
+        [HttpGet]
+        public JsonResult GetCTABannerId()
+        {
+            var urlData = _consumes.GetRandomBanner();
+            if (urlData == null)
+            {
+                return Json(new { Data = "Invalid" }, JsonRequestBehavior.AllowGet);
+            }
+            else
+            {
+                var data = new
+                {
+                    urlId = urlData.id,
+                    url = urlData.shortenurl,
+                    imageUrl=urlData.imageUrl,
+                    desc = urlData.text
+                };
+                return Json(new { Data = data }, JsonRequestBehavior.AllowGet);
+            }
+            
         }
         public ActionResult About()
         {

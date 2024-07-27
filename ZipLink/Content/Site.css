@@ -54,5 +54,35 @@ input {
 .generatedUrl{
     display:none;
 }
+.btn-primary {
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #616161 !important;
+}
+.shortenUrlForm {
+    flex-direction: column;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
 
+/* Basic styling for the popup */
+#ctaBanner {
+    display: none; /* Hidden by default */
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+    #ctaBanner button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
 

@@ -7,7 +7,8 @@ namespace ConsumeLayer.URLOperators
     {
         IURLOperators _urlOperators { get; set; }
 
-        string RedirectUrl(string url);
+        URLClient GetRandomBanner();
+        string RedirectUrl(URLClient url);
         URLClient UrlUpload(URLClient uRLClient);
     }
 }

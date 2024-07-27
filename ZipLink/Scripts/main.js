@@ -20,6 +20,7 @@
                 startLoader(); // Start loader before sending the request
             },
             success: function (success) {
+                console.log("success",success)
                 $(".generatedUrl").html(success.shortenurl);
             },
             complete: function (success) {
@@ -29,9 +30,13 @@
                     setTimeout(function () {
                         $(".generatedUrl").toggle()
                     }, 100)
-                }, 2100);// Stop loader after the request is complete
+                }, 6000);// Stop loader after the request is complete
                 
+            },
+            erro: function (err) {
+                console.log(err)
             }
+            
         })
         // Function to show and start the loader animation
 
@@ -54,5 +59,5 @@ function startLoader() {
         setTimeout(function () {
             $('#loader').toggle();
             $('#loader').css('width', '0').hide();
-        }, 2100); // Slight delay to ensure the loader completes before hiding
+        }, 6000); // Slight delay to ensure the loader completes before hiding
     }

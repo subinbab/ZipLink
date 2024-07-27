@@ -49,6 +49,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="URLOperators\IURLConsumes.cs" />
     <Compile Include="URLOperators\URLConsumes.cs" />
+    <Compile Include="URLTracking\IURLTrackingOperators.cs" />
+    <Compile Include="URLTracking\URLTrackingOperators.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
@@ -61,6 +63,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

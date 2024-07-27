@@ -12,13 +12,14 @@ namespace ZipLink
     {
         protected void Application_Start()
         {
-            UnityConfig.RegisterComponents();
+
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             log4net.Config.XmlConfigurator.Configure();
-
+            // Start Unity
+            UnityMvcActivator.Start();
         }
     }
 }
